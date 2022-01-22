@@ -1,8 +1,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iesous-kurios&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iesous-kurios&hide=java,jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iesous-kurios&hide=java,jupyter%20notebook&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iesouskurios&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iesouskurios&theme=dark)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!--
 **iesous-kurios/iesous-kurios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
