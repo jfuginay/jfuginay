@@ -4,7 +4,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesous-kurios&hide=java,jupyter%20notebook&theme=dark" />
 </a>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iesouskurios&theme=dark)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iesouskurios&theme=dark" />
+  </a>
 
 <!--
 **iesous-kurios/iesous-kurios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
