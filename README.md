@@ -1,7 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iesous-kurios&theme=dark)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iesous-kurios&theme=dark&layout=compact)]
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iesous-kurios&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iesous-kurios&repo=convoychat" />
+</a>
 
 <!--
 **iesous-kurios/iesous-kurios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
