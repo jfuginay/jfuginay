@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iesous-kurios&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iesous-kurios&layout=compact&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iesous-kurios&theme=dark)]
 
 <!--
 **iesous-kurios/iesous-kurios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
