@@ -1,6 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iesous-kurios&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iesous-kurios&hide=java,jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iesous-kurios&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **iesous-kurios/iesous-kurios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
