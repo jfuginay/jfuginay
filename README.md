@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iesous-kurios&show_icons=true&locale=en&layout=compact" alt="iesous-kurios" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iesous-kurios&show_icons=true&locale=en" alt="iesous-kurios" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iesous-kurios&show_icons=true&&hide=java,jupyter%20notebook?locale=en" alt="iesous-kurios" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iesous-kurios&" alt="iesous-kurios" /></p>
