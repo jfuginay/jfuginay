@@ -6,6 +6,8 @@
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iesouskurios&theme=dark" />
   </a>
+  
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iesouskurios)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
