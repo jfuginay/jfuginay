@@ -5,17 +5,20 @@
 </a>
 
 
-
+<div>
 <p>
 - 🔭 I’m currently working on solving all the AlgoExpert challenges
   </p>
   <p>
-- 🌱 I’m currently learning Elloquent JavaScript</p>
+- 🌱 I’m currently learning Elloquent JavaScript
+</p>
 <p>
-- 💬 Ask me about using data science to help break the cycle of homelessness</p>
+- 💬 Ask me about using data science to help break the cycle of homelessness
+</p>
 <p>
 - 📫 How to reach me: j.wylie.81@gmail.com
 </p>
+  </div>
 
 
 <!--
