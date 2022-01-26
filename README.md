@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Solving all the AlgoExpert questions (in JavaScript)**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node, Express**
+- 🌱 I’m currently learning **Angular, Nest.js, AWS CDK, DynamoDB, JavaScript, TypeScript, React, Node, Express**
 
 - 💬 Ask me about **Using Data Science to help end the cycle of homelessness**
 
