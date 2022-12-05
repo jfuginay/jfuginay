@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm J. Wylie</h1>
 <h3 align="center">Full Stack Data Scientist</h3>
 
-- 🔭 I’m currently working on **Solving all the AlgoExpert questions (in JavaScript)**
+- 🔭 I’m currently working on **Advent of Code!**
 
-- 🌱 I’m currently learning **Angular, Nest.js, AWS CDK, DynamoDB, JavaScript, TypeScript, React, Node, Express**
+- 🌱 I’m currently learning **Angular 12/13, Nest.js, AWS CDK, JavaScript, TypeScript, Node**
 
 - 💬 Ask me about **Using Data Science to help end the cycle of homelessness**
 
