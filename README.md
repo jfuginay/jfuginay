@@ -2,7 +2,8 @@
 <h3 align="center">Senior Full Stack Engineer | Cloud Architecture | ML/AI</h3>
 
 <p align="center">
-  Building scalable enterprise solutions with modern tech stack
+  Building scalable enterprise solutions with modern tech stack<br>
+  <small><i>💡 Additional enterprise projects and CI/CD pipelines available on <a href="https://gitlab.com/engindearing" target="_blank">GitLab</a></i></small>
 </p>
 
 <h3>Core Technologies:</h3>
@@ -27,6 +28,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
   </a>
@@ -38,7 +42,19 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://gitlab.com/engindearing" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+  </a>
 </p>
+
+<details>
+<summary><b>🔧 Backend & Infrastructure</b></summary>
+<br>
+• TypeScript/NestJS microservices with robust CI/CD pipelines on GitLab<br>
+• Cloud-native architectures using AWS & Azure services<br>
+• Container orchestration with Kubernetes & Docker<br>
+• Python/Django for scalable web applications
+</details>
 
 <h3>Contact:</h3>
 <p align="left">
