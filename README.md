@@ -50,4 +50,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iesous-kurios&show_icons=true&hide=java,jupyter%20notebook&locale=en&layout=compact" alt="iesous-kurios" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfuginay&show_icons=true&hide=java,jupyter%20notebook&locale=en&layout=compact" alt="jfuginay" /></p>
