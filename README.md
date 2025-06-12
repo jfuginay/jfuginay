@@ -75,6 +75,8 @@
 <br>
 • Maintain and host <a href="http://www.lexbratcher.com" target="_blank">www.lexbratcher.com</a> pro bono for artist Lex Bratcher<br>
 • Rescued and restored the domain after it was auctioned off, saving the artist from predatory pricing<br>
+• Host and maintain my personal website <a href="https://www.EnginDearing.soy" target="_blank">www.EnginDearing.soy</a><br>
+• Run a free-to-use vanilla Java Minecraft server for the community<br>
 • Committed to using my technical skills to support causes and creators I believe in
 </details>
 
