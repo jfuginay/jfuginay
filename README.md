@@ -1,9 +1,20 @@
 <h1 align="center">J. Wylie</h1>
-<h3 align="center">Senior Full Stack Engineer | Cloud Architecture | ML/AI</h3>
+<h3 align="center">Senior AI Enhanced Software Engineer | Cloud Architecture | ML/AI</h3>
 
 <p align="center">
-  Building scalable enterprise solutions with modern tech stack<br>
+  Leveraging AI to build impactful enterprise solutions with modern tech stack<br>
   <small><i>💡 Additional enterprise projects and CI/CD pipelines available on <a href="https://gitlab.com/engindearing" target="_blank">GitLab</a></i></small>
+</p>
+
+<h3>Professional Impact:</h3>
+<p align="left">
+  Over 6 years of experience integrating AI into web applications and advanced systems to solve real-world problems:
+  <ul>
+    <li>💼 Built the Housing Assistance Portal (HAP), an AI-enhanced enterprise-level web application that processed over $14 million in rental assistance, preventing 9,000+ families from eviction</li>
+    <li>🚀 Led a small team of 2-6 engineers to deliver a full-scale solution in just 6 months by leveraging AI tools to accelerate productivity</li>
+    <li>🛡️ Led ideation and implementation of ML for counter UAV systems, including detection of spoofed flights and payload-carrying drones, as well as other advanced targeting and signal mitigation technologies</li>
+    <li>🌱 Committed to building technology that makes a difference - I build things I believe in</li>
+  </ul>
 </p>
 
 <h3>Core Technologies:</h3>
@@ -26,6 +37,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   
+  <!-- AI -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  
   <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -42,6 +58,24 @@
 • Cloud-native architectures using AWS & Azure services<br>
 • Container orchestration with Kubernetes & Docker<br>
 • Python/Django for scalable web applications
+</details>
+
+<details>
+<summary><b>🤖 AI Integration Experience</b></summary>
+<br>
+• Developed AI-powered document processing systems to accelerate application review<br>
+• Implemented intelligent data extraction from unstructured documents<br>
+• Created predictive models to identify high-priority assistance cases<br>
+• Utilized AI to automate repetitive tasks, increasing team efficiency<br>
+• Led ML initiatives for counter UAV systems, including detection of spoofed flights and payload analysis<br>
+</details>
+
+<details>
+<summary><b>🌟 Community Projects</b></summary>
+<br>
+• Maintain and host <a href="http://www.lexbratcher.com" target="_blank">www.lexbratcher.com</a> pro bono for artist Lex Bratcher<br>
+• Rescued and restored the domain after it was auctioned off, saving the artist from predatory pricing<br>
+• Committed to using my technical skills to support causes and creators I believe in
 </details>
 
 <h3>Contact:</h3>
