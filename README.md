@@ -1,6 +1,8 @@
 <h1 align="center">J. Wylie</h1>
 <h3 align="center">Senior AI Enhanced Software Engineer | Cloud Architecture | ML/AI</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfuginay)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   Leveraging AI to build impactful enterprise solutions with modern tech stack<br>
   <small><i>💡 Additional enterprise projects and CI/CD pipelines available on <a href="https://gitlab.com/engindearing" target="_blank">GitLab</a></i></small>
