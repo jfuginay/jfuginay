@@ -136,5 +136,4 @@
     📫 j@engindearing.soy
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfuginay&show_icons=true&hide=java,jupyter%20notebook&locale=en&layout=compact" alt="jfuginay" /></p>
+<p><img align="left" src="https://jfuginay-readme.vercel.app/api/top-langs?username=jfuginay&show_icons=true&hide=java,jupyter%20notebook&locale=en&layout=compact" alt="jfuginay" /></p>
