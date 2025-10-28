@@ -28,7 +28,7 @@
 </td>
 <td width="50%">
 
-**[omniTAK](https://github.com/jfuginay/omniTAK)**
+**[omniTAK](https://github.com/engindearing-projects/omniTAK)**
 > Universal TAK server connectivity platform
 
 - Connect any TAK server to any TAK server
@@ -41,11 +41,11 @@
 <tr>
 <td colspan="2">
 
-**[omnicot](https://github.com/jfuginay/omnicot) & ATAK Plugin Development**
+**[omni-COT](https://github.com/engindearing-projects/omni-COT) & ATAK Plugin Development**
 > Contributing to the ATAK plugin ecosystem
 
 - Developed and co-developed multiple ATAK plugins
-- omnicot - enhancing ATAK capabilities
+- omni-COT - enhancing ATAK capabilities
 - Active contributor to the TAK community
 - Focused on practical tools for tactical situational awareness
 
