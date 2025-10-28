@@ -8,6 +8,51 @@
   <small><i>💡 Additional enterprise projects and CI/CD pipelines available on <a href="https://gitlab.com/engindearing" target="_blank">GitLab</a></i></small>
 </p>
 
+<h3>Featured TAK Projects:</h3>
+<p align="left">
+  Building open-source tools and documentation to enhance Team Awareness Kit (TAK) ecosystem interoperability:
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+**[ogTAK](https://github.com/jfuginay/ogTAK)**
+> Comprehensive setup guides and enhancements for TAK infrastructure
+
+- Setup guides for official TAK .gov servers
+- Federation implementation for OpenTAKServer
+- Multicast support integration
+- Helping operators deploy and configure TAK environments
+
+</td>
+<td width="50%">
+
+**[omniTAK](https://github.com/jfuginay/omniTAK)**
+> Universal TAK server connectivity platform
+
+- Connect any TAK server to any TAK server
+- Cross-platform server interoperability
+- Seamless data federation across TAK ecosystems
+- Breaking down silos between TAK implementations
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**[omnicot](https://github.com/jfuginay/omnicot) & ATAK Plugin Development**
+> Contributing to the ATAK plugin ecosystem
+
+- Developed and co-developed multiple ATAK plugins
+- omnicot - enhancing ATAK capabilities
+- Active contributor to the TAK community
+- Focused on practical tools for tactical situational awareness
+
+</td>
+</tr>
+</table>
+
 <h3>Professional Impact:</h3>
 <p align="left">
   Over 6 years of experience integrating AI into web applications and advanced systems to solve real-world problems:
