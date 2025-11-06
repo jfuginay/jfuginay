@@ -1,7 +1,13 @@
 <h1 align="center">J. Wylie</h1>
 <h3 align="center">Senior AI Enhanced Software Engineer | Cloud Architecture | ML/AI</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfuginay)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://jfuginay-readme.vercel.app/api?username=jfuginay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://jfuginay-readme.vercel.app/api?username=engindearing-projects&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs_merged&hide_border=true" alt="Engindearing Projects Org Stats" />
+</p>
 
 <p align="center">
   Leveraging AI to build impactful enterprise solutions with modern tech stack<br>
@@ -136,4 +142,6 @@
     📫 j@engindearing.soy
   </a>
 </p>
-<p><img align="left" src="https://jfuginay-readme.vercel.app/api/top-langs?username=jfuginay&show_icons=true&hide=java,jupyter%20notebook&locale=en&layout=compact" alt="jfuginay" /></p>
+<p align="center">
+  <img src="https://jfuginay-readme.vercel.app/api/top-langs?username=jfuginay&show_icons=true&theme=tokyonight&hide=java,jupyter%20notebook&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
