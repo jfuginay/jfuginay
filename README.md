@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://jfuginay-readme.vercel.app/api?username=engindearing-projects&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs_merged&hide_border=true" alt="Engindearing Projects Org Stats" />
-</p>
-
-<p align="center">
   Leveraging AI to build impactful enterprise solutions with modern tech stack<br>
   <small><i>💡 Additional enterprise projects and CI/CD pipelines available on <a href="https://gitlab.com/engindearing" target="_blank">GitLab</a></i></small>
 </p>
