@@ -2,11 +2,7 @@
 <h3 align="center">Senior AI Enhanced Software Engineer | Cloud Architecture | ML/AI</h3>
 
 <p align="center">
-  <img src="https://jfuginay-readme.vercel.app/api?username=jfuginay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://jfuginay-readme.vercel.app/api?username=engindearing-projects&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs_merged&hide_border=true" alt="Engindearing Projects Org Stats" />
+  <img src="https://jfuginay-readme.vercel.app/api?username=jfuginay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
