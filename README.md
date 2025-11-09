@@ -30,8 +30,8 @@
 </td>
 <td width="50%">
 
-**[omniTAK](https://github.com/engindearing-projects/omniTAK)**
-> Universal TAK server connectivity platform
+**[omni-TAK](https://github.com/engindearing-projects/omni-TAK)**
+> Universal TAK server connectivity platform (Rust)
 
 - Connect any TAK server to any TAK server
 - Cross-platform server interoperability
@@ -41,15 +41,39 @@
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+**[omni-COT](https://github.com/engindearing-projects/omni-COT)**
+> One plugin to do all the COT things in ATAK (Java)
+
+- Comprehensive COT message handling
+- Enhanced ATAK capabilities for tactical data
+- Streamlined CoT operations in a single plugin
+- Works with companion OmniTAK server
+
+</td>
+<td width="50%">
+
+**[omni-HUD](https://github.com/engindearing-projects/omni-HUD)**
+> Open-source HUD management plugin for ATAK (Java)
+
+- Advanced heads-up display management
+- Customizable HUD elements for ATAK
+- Enhanced situational awareness interface
+- Tactical display optimization
+
+</td>
+</tr>
+<tr>
 <td colspan="2">
 
-**[omni-COT](https://github.com/engindearing-projects/omni-COT) & ATAK Plugin Development**
-> Contributing to the ATAK plugin ecosystem
+**[omni-BASE](https://github.com/engindearing-projects/omni-BASE)**
+> Base cross-platform support for YA-TAK (Yet Another TAK) (C++)
 
-- Developed and co-developed multiple ATAK plugins
-- omni-COT - enhancing ATAK capabilities
-- Active contributor to the TAK community
-- Focused on practical tools for tactical situational awareness
+- Cross-platform foundation for TAK applications
+- Core infrastructure for the omni ecosystem
+- Modular architecture for TAK development
+- Building blocks for next-generation TAK tools
 
 </td>
 </tr>
