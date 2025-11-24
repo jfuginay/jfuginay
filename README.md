@@ -32,7 +32,7 @@ A comprehensive suite of open-source TAK tools spanning server federation, mobil
 <tr>
 <td width="50%">
 
-**[ogTAK-Server-Setup-Guides](https://github.com/engindearing-projects/ogTAK-Server-Setup-Guides)** ⭐ **19 stars**
+**[ogTAK-Server-Setup-Guides](https://github.com/engindearing-projects/ogTAK-Server-Setup-Guides)** ![GitHub Repo stars](https://img.shields.io/github/stars/engindearing-projects/ogTAK-Server-Setup-Guides?style=social)
 > The go-to resource for TAK server deployment
 
 - Comprehensive setup guides for official tak.gov servers
@@ -44,7 +44,7 @@ A comprehensive suite of open-source TAK tools spanning server federation, mobil
 </td>
 <td width="50%">
 
-**[omni-TAK](https://github.com/engindearing-projects/omni-TAK)** ⭐ **13 stars**
+**[omni-TAK](https://github.com/engindearing-projects/omni-TAK)** ![GitHub Repo stars](https://img.shields.io/github/stars/engindearing-projects/omni-TAK?style=social)
 > Universal TAK server federation platform (Rust)
 
 - Connect any TAK server to any other TAK server
@@ -63,7 +63,7 @@ A comprehensive suite of open-source TAK tools spanning server federation, mobil
 <tr>
 <td width="50%">
 
-**[omni-COT](https://github.com/engindearing-projects/omni-COT)** ⭐ **11 stars**
+**[omni-COT](https://github.com/engindearing-projects/omni-COT)** ![GitHub Repo stars](https://img.shields.io/github/stars/engindearing-projects/omni-COT?style=social)
 > Comprehensive CoT operations plugin for ATAK (Java)
 
 - All-in-one CoT (Cursor on Target) message handling
@@ -74,7 +74,7 @@ A comprehensive suite of open-source TAK tools spanning server federation, mobil
 </td>
 <td width="50%">
 
-**[omni-HUD](https://github.com/engindearing-projects/omni-HUD)** ⭐ **2 stars**
+**[omni-HUD](https://github.com/engindearing-projects/omni-HUD)** ![GitHub Repo stars](https://img.shields.io/github/stars/engindearing-projects/omni-HUD?style=social)
 > Advanced HUD management for ATAK (Java)
 
 - Customizable heads-up display elements
@@ -92,7 +92,7 @@ A comprehensive suite of open-source TAK tools spanning server federation, mobil
 <tr>
 <td width="50%">
 
-**[omniTAK-mobile](https://github.com/engindearing-projects/omniTAK-mobile)** ⭐ **8 stars**
+**[omniTAK-mobile](https://github.com/engindearing-projects/omniTAK-mobile)** ![GitHub Repo stars](https://img.shields.io/github/stars/engindearing-projects/omniTAK-mobile?style=social)
 > Full-featured TAK client for iOS (C++)
 
 - **Now available on Apple App Store!**
