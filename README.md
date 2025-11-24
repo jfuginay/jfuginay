@@ -250,8 +250,8 @@ Over 6 years building impactful solutions across defense, enterprise, and commun
 ## 📫 Connect & Collaborate
 
 <p align="left">
-  <a href="https://linkedin.com/in/j-wylie" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-wylie" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/engindearing/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engindearing" height="30" width="40" />
     LinkedIn
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
