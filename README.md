@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 TAK Expertise & Community Presence
+##  TAK Expertise & Community Presence
 
 Building the open-source TAK ecosystem through <a href="https://github.com/engindearing-projects" target="_blank">**engindearing-projects**</a> - a collection of tools, plugins, and resources that enhance TAK interoperability and capabilities. Active member of the TAK Discord community with a dedicated channel for TAK development and support.
 
@@ -22,7 +22,7 @@ The flagship **OmniTAK mobile app** is live on the Apple App Store, providing a 
 
 ---
 
-## 🚀 TAK Projects Portfolio
+##  TAK Projects Portfolio
 
 A comprehensive suite of open-source TAK tools spanning server federation, mobile clients, ATAK plugins, and infrastructure guides - built to enhance interoperability across the TAK ecosystem.
 
@@ -128,28 +128,28 @@ A comprehensive suite of open-source TAK tools spanning server federation, mobil
 
 ---
 
-## 💼 Professional Background
+##  Professional Background
 
 ### TAK Ecosystem Development
 **EnginDearing** is a solo operation focused on building open-source TAK tools that the community needs. Every project is designed to solve real interoperability challenges and enhance the TAK ecosystem:
 
-- 🎯 **TAK Discord Community Channel Owner** - Providing support and collaboration space for TAK developers
-- 📱 **OmniTAK Mobile** - Bringing professional TAK capabilities to iOS with App Store distribution
-- 🔧 **Server Federation** - Enabling any TAK server to connect with any other TAK server
-- 📚 **Community Documentation** - Maintaining the most comprehensive TAK server setup guides
-- 🔌 **ATAK Plugin Development** - Creating tools that extend ATAK's tactical capabilities
+-  **TAK Discord Community Channel Owner** - Providing support and collaboration space for TAK developers
+-  **OmniTAK Mobile** - Bringing professional TAK capabilities to iOS with App Store distribution
+-  **Server Federation** - Enabling any TAK server to connect with any other TAK server
+-  **Community Documentation** - Maintaining the most comprehensive TAK server setup guides
+-  **ATAK Plugin Development** - Creating tools that extend ATAK's tactical capabilities
 
 ### Broader Technical Experience
 Over 6 years building impactful solutions across defense, enterprise, and community sectors:
 
-- 🛡️ **Defense Systems**: Led ML implementation for counter-UAV systems, including spoofed flight detection, payload identification, and advanced signal mitigation technologies
-- 💼 **Enterprise Impact**: Built the Housing Assistance Portal (HAP), an AI-enhanced application that processed $14M in rental assistance, preventing 9,000+ families from eviction
-- 🚀 **Technical Leadership**: Led small engineering teams (2-6) to deliver enterprise solutions in rapid timeframes by leveraging modern development practices
-- 🌱 **Philosophy**: Building technology that makes a real difference - focused on tools people actually need
+-  **Defense Systems**: Led ML implementation for counter-UAV systems, including spoofed flight detection, payload identification, and advanced signal mitigation technologies
+-  **Enterprise Impact**: Built the Housing Assistance Portal (HAP), an AI-enhanced application that processed $14M in rental assistance, preventing 9,000+ families from eviction
+-  **Technical Leadership**: Led small engineering teams (2-6) to deliver enterprise solutions in rapid timeframes by leveraging modern development practices
+-  **Philosophy**: Building technology that makes a real difference - focused on tools people actually need
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### TAK Development
 <p align="left">
@@ -247,7 +247,7 @@ Over 6 years building impactful solutions across defense, enterprise, and commun
 
 ---
 
-## 📫 Connect & Collaborate
+##  Connect & Collaborate
 
 <p align="left">
   <a href="https://www.linkedin.com/in/engindearing/" target="blank">
@@ -256,7 +256,7 @@ Over 6 years building impactful solutions across defense, enterprise, and commun
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:j@engindearing.soy">
-    📧 j@engindearing.soy
+     j@engindearing.soy
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/engindearing-projects" target="blank">
