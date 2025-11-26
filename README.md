@@ -275,3 +275,7 @@ Over 6 years building impactful solutions across defense, enterprise, and commun
 <p align="center">
   <i>Building open-source TAK tools that matter. One developer, focused on what the community needs.</i>
 </p>
+
+<p align="center">
+  <sub>Workflows powered by <a href="https://wisprflow.ai/r?J1712">Wisprflow</a></sub>
+</p>
