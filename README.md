@@ -2,7 +2,7 @@
 <h3 align="center">TAK Software Expert & Open Source Developer</h3>
 
 <p align="center">
-  <img src="https://jfuginay-readme.vercel.app/api?username=jfuginay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jfuginay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -269,7 +269,7 @@ Over 6 years building impactful solutions across defense, enterprise, and commun
 ---
 
 <p align="center">
-  <img src="https://jfuginay-readme.vercel.app/api/top-langs?username=jfuginay&show_icons=true&theme=tokyonight&hide=jupyter%20notebook&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jfuginay&show_icons=true&theme=tokyonight&hide=jupyter%20notebook&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
